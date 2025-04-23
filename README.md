@@ -1,16 +1,11 @@
-# flutter_uts
+ini tampilan login
+![Image](https://github.com/user-attachments/assets/9be53661-7a88-4a68-8731-cedc875e8b96)
 
-A new Flutter project.
+tampilan dashboard
+![Image](https://github.com/user-attachments/assets/5a3d6481-9cac-4143-8266-246b4e590e1b)
 
-## Getting Started
+counter
+![Image](https://github.com/user-attachments/assets/c5ba3998-daa1-4153-981d-bd30478e08b3)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+counter2
+![Image](https://github.com/user-attachments/assets/d7d318ef-1a4c-4086-9003-b2213d6b7ae2)
